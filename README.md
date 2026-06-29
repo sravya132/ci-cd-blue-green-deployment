@@ -27,7 +27,7 @@ The application is containerized with Docker, automated through Jenkins CI/CD, a
 |-----------------|------------|
 | Language        | Python |
 | Framework       | Flask |
-| Frontend        | HTML, CSS, Jinja2 |
+| Frontend        | HTML, CSS, |
 | Containerization| Docker |
 | CI/CD           | Jenkins |
 | Reverse Proxy   | Nginx |
@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 # Run app
 python app.py
-
+```
 ---
 
 ## 🎯 Skills Demonstrated
